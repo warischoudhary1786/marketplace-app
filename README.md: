@@ -1,0 +1,28 @@
+# 🛍️ Ultimate Marketplace App
+
+A complete marketplace application with buying, selling, and messaging features.
+
+## ✨ Features
+- ✅ User Registration & Login
+- ✅ Guest Login (without account)
+- ✅ Seller Dashboard (Add/Manage products)
+- ✅ Buyer Dashboard (Browse/Add to cart)
+- ✅ Direct Messaging System
+- ✅ Shopping Cart
+- ✅ Product Management
+- ✅ Beautiful UI with Dark Theme
+
+## 🚀 How to Run
+
+### Prerequisites
+- Python 3.7+
+- Tkinter (for GUI)
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/your-username/marketplace-app.git
+cd marketplace-app
+
+# Run the application
+python3 marketplace.py
